@@ -1,0 +1,1442 @@
+[
+  {
+    "id": "olympia-games-776bce",
+    "year": 776,
+    "era": "BCE",
+    "exactDate": null,
+    "title": "Первые известные Олимпийские игры",
+    "question": "В каком году в Олимпии прошли первые Олимпийские игры, зафиксированные в древнегреческих списках победителей?",
+    "explanation": "Античные игры в Олимпии проводились в честь Зевса. 776 год до н. э. — дата первой известной записи о победителе, а не обязательно самого первого состязания.",
+    "period": "Античность",
+    "category": "ancient-world",
+    "difficulty": "medium",
+    "region": "Древняя Греция",
+    "keywords": [
+      "Олимпия",
+      "игры",
+      "Греция"
+    ],
+    "sources": [
+      {
+        "title": "Olympic Games — History",
+        "url": "https://www.britannica.com/sports/Olympic-Games/History"
+      }
+    ]
+  },
+  {
+    "id": "marathon-490bce",
+    "year": 490,
+    "era": "BCE",
+    "exactDate": null,
+    "title": "Битва при Марафоне",
+    "question": "В каком году афиняне победили персидское войско в битве при Марафоне?",
+    "explanation": "Сражение стало важным эпизодом греко-персидских войн. Афинское войско остановило наступление персов на Аттику.",
+    "period": "Античность",
+    "category": "ancient-world",
+    "difficulty": "medium",
+    "region": "Древняя Греция",
+    "keywords": [
+      "Марафон",
+      "Афины",
+      "Персия"
+    ],
+    "sources": [
+      {
+        "title": "Battle of Marathon",
+        "url": "https://www.britannica.com/event/Battle-of-Marathon"
+      }
+    ]
+  },
+  {
+    "id": "caesar-assassination-44bce",
+    "year": 44,
+    "era": "BCE",
+    "exactDate": "44 BCE-03-15",
+    "title": "Убийство Юлия Цезаря",
+    "question": "В каком году заговорщики убили Юлия Цезаря в Риме в мартовские иды?",
+    "explanation": "15 марта Цезарь был убит в здании сената. Его смерть ускорила конец Римской республики и последующую гражданскую войну.",
+    "period": "Античность",
+    "category": "ancient-world",
+    "difficulty": "easy",
+    "region": "Рим",
+    "keywords": [
+      "Цезарь",
+      "Рим",
+      "мартовские иды"
+    ],
+    "sources": [
+      {
+        "title": "Julius Caesar — Assassination",
+        "url": "https://www.britannica.com/biography/Julius-Caesar-Roman-ruler/Assassination"
+      }
+    ]
+  },
+  {
+    "id": "vesuvius-79",
+    "year": 79,
+    "era": "CE",
+    "exactDate": "79-08-24",
+    "title": "Извержение Везувия",
+    "question": "В каком году извержение Везувия погребло Помпеи и Геркуланум?",
+    "explanation": "Извержение Везувия накрыло несколько римских поселений пеплом и пирокластическими потоками. Руины Помпей сохранили редкие свидетельства повседневной жизни Римской империи.",
+    "period": "Античность",
+    "category": "ancient-world",
+    "difficulty": "easy",
+    "region": "Римская империя",
+    "keywords": [
+      "Помпеи",
+      "Везувий",
+      "извержение"
+    ],
+    "sources": [
+      {
+        "title": "Eruption of Mount Vesuvius",
+        "url": "https://www.britannica.com/event/eruption-of-Mount-Vesuvius"
+      }
+    ]
+  },
+  {
+    "id": "constantinople-founded-330",
+    "year": 330,
+    "era": "CE",
+    "exactDate": "330-05-11",
+    "title": "Основание Константинополя",
+    "question": "В каком году Константин Великий торжественно открыл новую столицу Римской империи — Константинополь?",
+    "explanation": "Император Константин сделал Византий новым имперским центром и переименовал город в Константинополь. Позднее он стал столицей Восточной Римской империи.",
+    "period": "Античность",
+    "category": "ancient-world",
+    "difficulty": "hard",
+    "region": "Восточная Римская империя",
+    "keywords": [
+      "Константин",
+      "Византий",
+      "столица"
+    ],
+    "sources": [
+      {
+        "title": "Istanbul — History",
+        "url": "https://www.britannica.com/place/Istanbul/History"
+      }
+    ]
+  },
+  {
+    "id": "hijra-622",
+    "year": 622,
+    "era": "CE",
+    "exactDate": null,
+    "title": "Переселение в Медину",
+    "question": "В каком году Мухаммед и его последователи переселились из Мекки в Медину — событие, с которого начинается исламский календарь?",
+    "explanation": "Хиджра ознаменовала начало новой общины в Медине. Исламский календарь ведёт отсчёт от этого переселения.",
+    "period": "Средние века",
+    "category": "middle-ages",
+    "difficulty": "medium",
+    "region": "Аравийский полуостров",
+    "keywords": [
+      "хиджра",
+      "Мекка",
+      "Медина"
+    ],
+    "sources": [
+      {
+        "title": "Hijrah",
+        "url": "https://www.britannica.com/event/Hijrah"
+      }
+    ]
+  },
+  {
+    "id": "tours-732",
+    "year": 732,
+    "era": "CE",
+    "exactDate": null,
+    "title": "Битва при Пуатье",
+    "question": "В каком году войско франков под командованием Карла Мартелла сразилось с армией Омейядов у Пуатье?",
+    "explanation": "Битва при Туре (Пуатье) стала одним из ключевых столкновений франков с войсками Омейядского халифата в Западной Европе.",
+    "period": "Средние века",
+    "category": "middle-ages",
+    "difficulty": "hard",
+    "region": "Франкское королевство",
+    "keywords": [
+      "Пуатье",
+      "Тур",
+      "Карл Мартелл"
+    ],
+    "sources": [
+      {
+        "title": "Battle of Tours",
+        "url": "https://www.britannica.com/event/Battle-of-Tours"
+      }
+    ]
+  },
+  {
+    "id": "charlemagne-crowned-800",
+    "year": 800,
+    "era": "CE",
+    "exactDate": "800-12-25",
+    "title": "Коронация Карла Великого",
+    "question": "В каком году папа Лев III короновал Карла Великого императором в Риме?",
+    "explanation": "Коронация в соборе Святого Петра на Рождество стала важной вехой в отношениях папства и франкских правителей.",
+    "period": "Средние века",
+    "category": "middle-ages",
+    "difficulty": "medium",
+    "region": "Западная Европа",
+    "keywords": [
+      "Карл Великий",
+      "император",
+      "Рим"
+    ],
+    "sources": [
+      {
+        "title": "Charlemagne",
+        "url": "https://www.britannica.com/biography/Charlemagne"
+      }
+    ]
+  },
+  {
+    "id": "hastings-1066",
+    "year": 1066,
+    "era": "CE",
+    "exactDate": "1066-10-14",
+    "title": "Битва при Гастингсе",
+    "question": "В каком году нормандский герцог Вильгельм победил англосаксонское войско в битве при Гастингсе?",
+    "explanation": "Победа Вильгельма Завоевателя привела к нормандскому завоеванию Англии и преобразовала её правящую элиту.",
+    "period": "Средние века",
+    "category": "middle-ages",
+    "difficulty": "easy",
+    "region": "Англия",
+    "keywords": [
+      "Гастингс",
+      "норманны",
+      "Вильгельм Завоеватель"
+    ],
+    "sources": [
+      {
+        "title": "Battle of Hastings",
+        "url": "https://www.britannica.com/event/Battle-of-Hastings"
+      }
+    ]
+  },
+  {
+    "id": "magna-carta-1215",
+    "year": 1215,
+    "era": "CE",
+    "exactDate": "1215-06-15",
+    "title": "Великая хартия вольностей",
+    "question": "В каком году король Иоанн Безземельный скрепил печатью Великую хартию вольностей в Раннимеде?",
+    "explanation": "Хартия стала соглашением короля с мятежными баронами. Впоследствии её стали считать важным символом принципа верховенства закона.",
+    "period": "Средние века",
+    "category": "middle-ages",
+    "difficulty": "easy",
+    "region": "Англия",
+    "keywords": [
+      "Раннимед",
+      "Иоанн Безземельный",
+      "хартия"
+    ],
+    "sources": [
+      {
+        "title": "Magna Carta — The National Archives",
+        "url": "https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/medieval/magna-carta/"
+      }
+    ]
+  },
+  {
+    "id": "constantinople-fall-1453",
+    "year": 1453,
+    "era": "CE",
+    "exactDate": "1453-05-29",
+    "title": "Падение Константинополя",
+    "question": "В каком году османское войско султана Мехмеда II захватило Константинополь?",
+    "explanation": "Захват города завершил существование Византийской империи. Константинополь стал столицей Османской империи.",
+    "period": "Средние века",
+    "category": "middle-ages",
+    "difficulty": "easy",
+    "region": "Восточное Средиземноморье",
+    "keywords": [
+      "Византия",
+      "Мехмед II",
+      "османы"
+    ],
+    "sources": [
+      {
+        "title": "Fall of Constantinople",
+        "url": "https://www.britannica.com/event/Fall-of-Constantinople-1453"
+      }
+    ]
+  },
+  {
+    "id": "columbus-landfall-1492",
+    "year": 1492,
+    "era": "CE",
+    "exactDate": "1492-10-12",
+    "title": "Экспедиция Колумба достигает Карибского моря",
+    "question": "В каком году первая экспедиция Христофора Колумба достигла острова в Карибском море?",
+    "explanation": "12 октября экспедиция высадилась на острове, который Колумб назвал Сан-Сальвадор. Остров известен лукуайцам как Гуанахани; его точная современная идентификация остаётся предметом обсуждения.",
+    "period": "Раннее Новое время",
+    "category": "exploration",
+    "difficulty": "easy",
+    "region": "Карибский бассейн",
+    "keywords": [
+      "Колумб",
+      "Карибское море",
+      "Сан-Сальвадор"
+    ],
+    "sources": [
+      {
+        "title": "Columbus Makes Landfall in the Caribbean",
+        "url": "https://education.nationalgeographic.org/resource/columbus-makes-landfall-caribbean/"
+      }
+    ]
+  },
+  {
+    "id": "tordesillas-1494",
+    "year": 1494,
+    "era": "CE",
+    "exactDate": "1494-06-07",
+    "title": "Тордесильясский договор",
+    "question": "В каком году Испания и Португалия заключили Тордесильясский договор о разграничении сфер влияния?",
+    "explanation": "Договор установил условную линию разграничения между испанскими и португальскими притязаниями на новые территории за пределами Европы.",
+    "period": "Раннее Новое время",
+    "category": "exploration",
+    "difficulty": "hard",
+    "region": "Атлантический мир",
+    "keywords": [
+      "Испания",
+      "Португалия",
+      "Тордесильяс"
+    ],
+    "sources": [
+      {
+        "title": "Treaty of Tordesillas",
+        "url": "https://www.britannica.com/event/Treaty-of-Tordesillas"
+      }
+    ]
+  },
+  {
+    "id": "da-gama-india-1498",
+    "year": 1498,
+    "era": "CE",
+    "exactDate": "1498-05-20",
+    "title": "Васко да Гама достигает Индии",
+    "question": "В каком году морская экспедиция Васко да Гамы прибыла в Каликут на западном побережье Индии?",
+    "explanation": "Да Гама достиг Индии, обогнув Африку. Плавание открыло для португальцев морской путь из Европы в Южную Азию.",
+    "period": "Раннее Новое время",
+    "category": "exploration",
+    "difficulty": "medium",
+    "region": "Индийский океан",
+    "keywords": [
+      "Васко да Гама",
+      "Каликут",
+      "Индия"
+    ],
+    "sources": [
+      {
+        "title": "Vasco da Gama",
+        "url": "https://www.britannica.com/biography/Vasco-da-Gama"
+      }
+    ]
+  },
+  {
+    "id": "magellan-expedition-1519",
+    "year": 1519,
+    "era": "CE",
+    "exactDate": "1519-09-20",
+    "title": "Экспедиция Магеллана отправляется в путь",
+    "question": "В каком году флотилия Фернана Магеллана вышла из Испании в экспедицию, завершившую первое кругосветное плавание?",
+    "explanation": "Магеллан возглавил экспедицию, которая отправилась на запад в поисках пути к Молуккским островам. Сам он погиб на Филиппинах; кругосветный маршрут завершил корабль «Виктория».",
+    "period": "Раннее Новое время",
+    "category": "exploration",
+    "difficulty": "medium",
+    "region": "Атлантический и Тихий океаны",
+    "keywords": [
+      "Магеллан",
+      "кругосветное плавание",
+      "Виктория"
+    ],
+    "sources": [
+      {
+        "title": "Ferdinand Magellan",
+        "url": "https://www.britannica.com/biography/Ferdinand-Magellan"
+      }
+    ]
+  },
+  {
+    "id": "cook-first-voyage-1768",
+    "year": 1768,
+    "era": "CE",
+    "exactDate": "1768-08-26",
+    "title": "Первая тихоокеанская экспедиция Кука",
+    "question": "В каком году Джеймс Кук отправился из Плимута в первую из своих тихоокеанских экспедиций?",
+    "explanation": "Экспедиция на корабле Endeavour наблюдала прохождение Венеры, а затем исследовала Новую Зеландию и восточное побережье Австралии.",
+    "period": "Новое время",
+    "category": "exploration",
+    "difficulty": "hard",
+    "region": "Тихий океан",
+    "keywords": [
+      "Джеймс Кук",
+      "Endeavour",
+      "экспедиция"
+    ],
+    "sources": [
+      {
+        "title": "James Cook",
+        "url": "https://www.britannica.com/biography/James-Cook"
+      }
+    ]
+  },
+  {
+    "id": "turkic-khaganate-552",
+    "year": 552,
+    "era": "CE",
+    "exactDate": null,
+    "title": "Возникновение Тюркского каганата",
+    "question": "В каком году Бумын провозгласил себя каганом и основал Тюркский каганат?",
+    "explanation": "С возвышением Бумына в Центральной Азии возникло первое крупное государство, известное под именем тюрков.",
+    "period": "Раннее Средневековье",
+    "category": "central-asia",
+    "difficulty": "hard",
+    "region": "Центральная Азия",
+    "keywords": [
+      "Бумын",
+      "Тюркский каганат",
+      "тюрки"
+    ],
+    "sources": [
+      {
+        "title": "Turkic peoples",
+        "url": "https://www.britannica.com/topic/Turkic-peoples"
+      }
+    ]
+  },
+  {
+    "id": "talas-751",
+    "year": 751,
+    "era": "CE",
+    "exactDate": null,
+    "title": "Битва на реке Талас",
+    "question": "В каком году войска Аббасидского халифата и карлуков столкнулись с армией Танской империи у реки Талас?",
+    "explanation": "Сражение произошло у Таласа в Центральной Азии. Оно стало одним из эпизодов борьбы держав за влияние в регионе.",
+    "period": "Раннее Средневековье",
+    "category": "central-asia",
+    "difficulty": "hard",
+    "region": "Центральная Азия",
+    "keywords": [
+      "Талас",
+      "Аббасиды",
+      "Тан"
+    ],
+    "sources": [
+      {
+        "title": "Battle of Talas",
+        "url": "https://www.britannica.com/event/Battle-of-Talas"
+      }
+    ]
+  },
+  {
+    "id": "bukhara-mongols-1220",
+    "year": 1220,
+    "era": "CE",
+    "exactDate": null,
+    "title": "Завоевание Бухары монголами",
+    "question": "В каком году войска Чингисхана взяли Бухару во время похода в Среднюю Азию?",
+    "explanation": "После захвата Самарканда монгольские войска подошли к Бухаре, одному из крупнейших городов Средней Азии. Город был взят и разграблен; завоевание региона стало частью похода Чингисхана против государства Хорезмшахов.",
+    "period": "Средние века",
+    "category": "central-asia",
+    "difficulty": "medium",
+    "region": "Мавераннахр",
+    "keywords": [
+      "Бухара",
+      "Чингисхан",
+      "Хорезмшахи"
+    ],
+    "sources": [
+      {
+        "title": "Bukhara — History",
+        "url": "https://www.britannica.com/place/Bukhara-Uzbekistan/History"
+      }
+    ]
+  },
+  {
+    "id": "kazakhstan-independence-1991",
+    "year": 1991,
+    "era": "CE",
+    "exactDate": "1991-12-16",
+    "title": "Независимость Казахстана",
+    "question": "В каком году Казахстан провозгласил государственную независимость 16 декабря?",
+    "explanation": "16 декабря Верховный Совет Казахской ССР принял конституционный закон о государственной независимости. Казахстан стал последней из союзных республик, провозгласивших независимость перед окончательным распадом СССР.",
+    "period": "Новейшая история",
+    "category": "central-asia",
+    "difficulty": "easy",
+    "region": "Казахстан",
+    "keywords": [
+      "Казахстан",
+      "независимость",
+      "16 декабря"
+    ],
+    "sources": [
+      {
+        "title": "United Nations document A/72/343",
+        "url": "https://digitallibrary.un.org/record/1302788/files/A_72_343-EN.pdf"
+      }
+    ]
+  },
+  {
+    "id": "semipalatinsk-closure-1991",
+    "year": 1991,
+    "era": "CE",
+    "exactDate": "1991-08-29",
+    "title": "Закрытие Семипалатинского полигона",
+    "question": "В каком году Казахстан официально закрыл Семипалатинский ядерный испытательный полигон?",
+    "explanation": "Закрытие полигона остановило ядерные испытания на этой площадке. Дата 29 августа отмечается ООН как Международный день действий против ядерных испытаний.",
+    "period": "Новейшая история",
+    "category": "central-asia",
+    "difficulty": "medium",
+    "region": "Казахстан",
+    "keywords": [
+      "Семипалатинск",
+      "ядерные испытания",
+      "Казахстан"
+    ],
+    "sources": [
+      {
+        "title": "United Nations — End Nuclear Tests Day: History",
+        "url": "https://www.un.org/en/observances/end-nuclear-tests-day/history"
+      }
+    ]
+  },
+  {
+    "id": "astana-capital-1997",
+    "year": 1997,
+    "era": "CE",
+    "exactDate": null,
+    "title": "Перенос столицы Казахстана",
+    "question": "В каком году Акмола официально стала столицей Казахстана?",
+    "explanation": "В 1997 году столичные функции были перенесены из Алматы в Акмолу. В следующем году город переименовали в Астану.",
+    "period": "Новейшая история",
+    "category": "central-asia",
+    "difficulty": "medium",
+    "region": "Казахстан",
+    "keywords": [
+      "Акмола",
+      "Астана",
+      "столица"
+    ],
+    "sources": [
+      {
+        "title": "Astana — Encyclopaedia Britannica",
+        "url": "https://www.britannica.com/place/Astana-Kazakhstan"
+      }
+    ]
+  },
+  {
+    "id": "westphalia-1648",
+    "year": 1648,
+    "era": "CE",
+    "exactDate": "1648-10-24",
+    "title": "Вестфальский мир",
+    "question": "В каком году были заключены договоры, завершившие Тридцатилетнюю войну в Священной Римской империи?",
+    "explanation": "Мирные договоры были подписаны в Мюнстере и Оснабрюке. Вестфальский мир перестроил политические отношения в Центральной Европе.",
+    "period": "Новое время",
+    "category": "wars-revolutions",
+    "difficulty": "medium",
+    "region": "Центральная Европа",
+    "keywords": [
+      "Вестфалия",
+      "Тридцатилетняя война",
+      "Мюнстер"
+    ],
+    "sources": [
+      {
+        "title": "Peace of Westphalia",
+        "url": "https://www.britannica.com/event/Peace-of-Westphalia"
+      }
+    ]
+  },
+  {
+    "id": "us-declaration-1776",
+    "year": 1776,
+    "era": "CE",
+    "exactDate": "1776-07-04",
+    "title": "Декларация независимости США",
+    "question": "В каком году Континентальный конгресс принял Декларацию независимости США?",
+    "explanation": "Документ, подготовленный комитетом Второго Континентального конгресса и главным образом написанный Томасом Джефферсоном, провозгласил разрыв тринадцати колоний с Великобританией. Он изложил политические основания независимости и повлиял на последующие декларации прав.",
+    "period": "Новое время",
+    "category": "wars-revolutions",
+    "difficulty": "easy",
+    "region": "Северная Америка",
+    "keywords": [
+      "Декларация",
+      "США",
+      "независимость"
+    ],
+    "sources": [
+      {
+        "title": "The Declaration of Independence, 1776 — U.S. Department of State",
+        "url": "https://history.state.gov/milestones/1776-1783/declaration"
+      }
+    ]
+  },
+  {
+    "id": "bastille-1789",
+    "year": 1789,
+    "era": "CE",
+    "exactDate": "1789-07-14",
+    "title": "Взятие Бастилии",
+    "question": "В каком году жители Парижа захватили крепость-тюрьму Бастилию?",
+    "explanation": "14 июля жители Парижа захватили крепость-тюрьму Бастилию, символ королевской власти и произвольных арестов. Событие стало одним из поворотных моментов Французской революции; эту дату во Франции отмечают как национальный праздник.",
+    "period": "Новое время",
+    "category": "wars-revolutions",
+    "difficulty": "easy",
+    "region": "Франция",
+    "keywords": [
+      "Бастилия",
+      "Париж",
+      "Французская революция"
+    ],
+    "sources": [
+      {
+        "title": "Today in History: July 14 — AP News",
+        "url": "https://apnews.com/article/2f9f2794f4b4e78b05c61c7c424e3913"
+      }
+    ]
+  },
+  {
+    "id": "haitian-revolution-1791",
+    "year": 1791,
+    "era": "CE",
+    "exactDate": "1791-08-22",
+    "title": "Восстание в Сен-Доминго",
+    "question": "В каком году началось крупное восстание порабощённых людей во французской колонии Сен-Доминго, положившее начало Гаитянской революции?",
+    "explanation": "Восстание началось в августе 1791 года. Революционный процесс привёл к созданию независимого Гаити в 1804 году.",
+    "period": "Новое время",
+    "category": "wars-revolutions",
+    "difficulty": "hard",
+    "region": "Карибский бассейн",
+    "keywords": [
+      "Гаити",
+      "Сен-Доминго",
+      "революция"
+    ],
+    "sources": [
+      {
+        "title": "Haitian Revolution",
+        "url": "https://www.britannica.com/topic/Haitian-Revolution"
+      }
+    ]
+  },
+  {
+    "id": "waterloo-1815",
+    "year": 1815,
+    "era": "CE",
+    "exactDate": "1815-06-18",
+    "title": "Битва при Ватерлоо",
+    "question": "В каком году коалиционные войска нанесли Наполеону решающее поражение при Ватерлоо?",
+    "explanation": "Армия Наполеона потерпела поражение от союзных сил под командованием герцога Веллингтона и прусского фельдмаршала Блюхера. Битва завершила период «Ста дней» после возвращения Наполеона к власти и привела к его окончательному отречению.",
+    "period": "Новое время",
+    "category": "wars-revolutions",
+    "difficulty": "easy",
+    "region": "Бельгия",
+    "keywords": [
+      "Ватерлоо",
+      "Наполеон",
+      "коалиция"
+    ],
+    "sources": [
+      {
+        "title": "Battle of Waterloo",
+        "url": "https://www.britannica.com/event/Battle-of-Waterloo"
+      }
+    ]
+  },
+  {
+    "id": "world-war-i-1914",
+    "year": 1914,
+    "era": "CE",
+    "exactDate": "1914-07-28",
+    "title": "Начало Первой мировой войны",
+    "question": "В каком году Австро-Венгрия объявила войну Сербии, начав Первую мировую войну?",
+    "explanation": "Объявление войны 28 июля стало началом конфликта, который быстро распространился на крупные державы Европы.",
+    "period": "Новейшая история",
+    "category": "wars-revolutions",
+    "difficulty": "easy",
+    "region": "Европа",
+    "keywords": [
+      "Первая мировая война",
+      "Австро-Венгрия",
+      "Сербия"
+    ],
+    "sources": [
+      {
+        "title": "World War I",
+        "url": "https://www.britannica.com/event/World-War-I"
+      }
+    ]
+  },
+  {
+    "id": "october-revolution-1917",
+    "year": 1917,
+    "era": "CE",
+    "exactDate": "1917-11-07",
+    "title": "Октябрьская революция",
+    "question": "В каком году большевики захватили власть в Петрограде во время Октябрьской революции?",
+    "explanation": "Вооружённое восстание в Петрограде привело к свержению Временного правительства. По юлианскому календарю событие произошло 25 октября.",
+    "period": "Новейшая история",
+    "category": "wars-revolutions",
+    "difficulty": "medium",
+    "region": "Россия",
+    "keywords": [
+      "Октябрьская революция",
+      "Петроград",
+      "большевики"
+    ],
+    "sources": [
+      {
+        "title": "Russian Revolution",
+        "url": "https://www.britannica.com/event/Russian-Revolution"
+      }
+    ]
+  },
+  {
+    "id": "copernicus-1543",
+    "year": 1543,
+    "era": "CE",
+    "exactDate": null,
+    "title": "Книга Коперника о движении небесных тел",
+    "question": "В каком году Николай Коперник опубликовал труд «Об обращении небесных сфер»?",
+    "explanation": "Книга изложила математическую модель, в которой Земля и планеты обращаются вокруг Солнца. Она стала одним из поворотных текстов научной революции.",
+    "period": "Научная революция",
+    "category": "science-inventions",
+    "difficulty": "medium",
+    "region": "Европа",
+    "keywords": [
+      "Коперник",
+      "астрономия",
+      "гелиоцентризм"
+    ],
+    "sources": [
+      {
+        "title": "Nicolaus Copernicus",
+        "url": "https://www.britannica.com/biography/Nicolaus-Copernicus"
+      }
+    ]
+  },
+  {
+    "id": "galileo-sidereus-1610",
+    "year": 1610,
+    "era": "CE",
+    "exactDate": "1610-03-12",
+    "title": "«Звёздный вестник» Галилея",
+    "question": "В каком году Галилео Галилей опубликовал «Звёздный вестник» с наблюдениями в телескоп?",
+    "explanation": "В книге Галилей описал горы на Луне, множество звёзд и спутники Юпитера, которые наблюдал с помощью телескопа.",
+    "period": "Научная революция",
+    "category": "science-inventions",
+    "difficulty": "hard",
+    "region": "Италия",
+    "keywords": [
+      "Галилей",
+      "телескоп",
+      "Юпитер"
+    ],
+    "sources": [
+      {
+        "title": "Galileo Galilei",
+        "url": "https://www.britannica.com/biography/Galileo-Galilei"
+      }
+    ]
+  },
+  {
+    "id": "principia-1687",
+    "year": 1687,
+    "era": "CE",
+    "exactDate": null,
+    "title": "Публикация «Математических начал» Ньютона",
+    "question": "В каком году Исаак Ньютон опубликовал книгу «Математические начала натуральной философии»?",
+    "explanation": "В труде Ньютон сформулировал законы движения и закон всемирного тяготения, объединив результаты нескольких поколений исследований.",
+    "period": "Научная революция",
+    "category": "science-inventions",
+    "difficulty": "medium",
+    "region": "Англия",
+    "keywords": [
+      "Ньютон",
+      "тяготение",
+      "механика"
+    ],
+    "sources": [
+      {
+        "title": "Principia Mathematica",
+        "url": "https://www.britannica.com/topic/Principia-Mathematica"
+      }
+    ]
+  },
+  {
+    "id": "morse-message-1844",
+    "year": 1844,
+    "era": "CE",
+    "exactDate": "1844-05-24",
+    "title": "Первое публичное сообщение телеграфа Морзе",
+    "question": "В каком году Сэмюэл Морзе отправил по телеграфной линии сообщение «What hath God wrought»?",
+    "explanation": "Сообщение прошло между Вашингтоном и Балтимором по экспериментальной линии. Телеграф резко ускорил передачу новостей на большие расстояния.",
+    "period": "Промышленная эпоха",
+    "category": "science-inventions",
+    "difficulty": "medium",
+    "region": "США",
+    "keywords": [
+      "Морзе",
+      "телеграф",
+      "Вашингтон"
+    ],
+    "sources": [
+      {
+        "title": "The Capitol's First Official Telegraph — U.S. House of Representatives",
+        "url": "https://history.house.gov/HistoricalHighlight/Detail/35992"
+      }
+    ]
+  },
+  {
+    "id": "wright-flight-1903",
+    "year": 1903,
+    "era": "CE",
+    "exactDate": "1903-12-17",
+    "title": "Первый управляемый полёт братьев Райт",
+    "question": "В каком году братья Райт совершили первый успешный управляемый полёт на аппарате тяжелее воздуха с двигателем?",
+    "explanation": "Орвилл Райт совершил первый успешный полёт на моторном самолёте тяжелее воздуха, управляя аппаратом Flyer возле Китти-Хок в Северной Каролине. Полёт длился 12 секунд и прошёл примерно 36 метров; в тот день братья совершили четыре полёта.",
+    "period": "Новейшая история",
+    "category": "science-inventions",
+    "difficulty": "easy",
+    "region": "США",
+    "keywords": [
+      "братья Райт",
+      "самолёт",
+      "Китти-Хок"
+    ],
+    "sources": [
+      {
+        "title": "Wright Brothers — National Air and Space Museum",
+        "url": "https://airandspace.si.edu/explore/stories/wright-brothers"
+      }
+    ]
+  },
+  {
+    "id": "penicillin-1928",
+    "year": 1928,
+    "era": "CE",
+    "exactDate": null,
+    "title": "Открытие пенициллина",
+    "question": "В каком году Александр Флеминг заметил, что плесень подавляет рост бактерий в одной из его чашек Петри?",
+    "explanation": "Наблюдение Флеминга стало отправной точкой для изучения пенициллина. Позднее препарат удалось очистить и подготовить к широкому медицинскому применению.",
+    "period": "Новейшая история",
+    "category": "science-inventions",
+    "difficulty": "medium",
+    "region": "Великобритания",
+    "keywords": [
+      "Флеминг",
+      "пенициллин",
+      "медицина"
+    ],
+    "sources": [
+      {
+        "title": "The Nobel Prize — Alexander Fleming",
+        "url": "https://www.nobelprize.org/prizes/medicine/1945/fleming/biographical/"
+      }
+    ]
+  },
+  {
+    "id": "dna-structure-1953",
+    "year": 1953,
+    "era": "CE",
+    "exactDate": "1953-04-25",
+    "title": "Публикация модели структуры ДНК",
+    "question": "В каком году журнал Nature опубликовал статью Уотсона и Крика о структуре молекулы ДНК?",
+    "explanation": "Короткая статья предложила двойную спираль как модель структуры ДНК и объяснила, как она может копироваться.",
+    "period": "Новейшая история",
+    "category": "science-inventions",
+    "difficulty": "hard",
+    "region": "Великобритания",
+    "keywords": [
+      "ДНК",
+      "Уотсон",
+      "Крик"
+    ],
+    "sources": [
+      {
+        "title": "Molecular Structure of Nucleic Acids — Nature",
+        "url": "https://www.nature.com/articles/171737a0"
+      }
+    ]
+  },
+  {
+    "id": "sputnik-1957",
+    "year": 1957,
+    "era": "CE",
+    "exactDate": "1957-10-04",
+    "title": "Запуск первого искусственного спутника",
+    "question": "В каком году Советский Союз запустил «Спутник-1» — первый искусственный спутник Земли?",
+    "explanation": "Советский Союз вывел на орбиту «Спутник-1» — первый искусственный спутник Земли. Аппарат передавал радиосигналы, которые принимали наземные станции. Запуск открыл космическую эру и усилил соперничество СССР и США в науке и технологиях.",
+    "period": "Космическая эра",
+    "category": "space-technology",
+    "difficulty": "easy",
+    "region": "СССР",
+    "keywords": [
+      "Спутник-1",
+      "орбита",
+      "космос"
+    ],
+    "sources": [
+      {
+        "title": "The Dawn of the Space Age — NASA",
+        "url": "https://www.nasa.gov/history/dawn-of-the-space-age/"
+      }
+    ]
+  },
+  {
+    "id": "vostok-1-1961",
+    "year": 1961,
+    "era": "CE",
+    "exactDate": "1961-04-12",
+    "title": "Первый полёт человека в космос",
+    "question": "В каком году Юрий Гагарин совершил первый в истории орбитальный полёт человека на корабле «Восток-1»?",
+    "explanation": "Юрий Гагарин стартовал с космодрома Байконур на корабле «Восток-1», один раз облетел Землю и благополучно вернулся. Полёт продолжался 108 минут и сделал Гагарина первым человеком, побывавшим в космосе.",
+    "period": "Космическая эра",
+    "category": "space-technology",
+    "difficulty": "easy",
+    "region": "СССР",
+    "keywords": [
+      "Гагарин",
+      "Восток-1",
+      "орбита"
+    ],
+    "sources": [
+      {
+        "title": "NASA — 60 Years Ago: First Human Entered Space",
+        "url": "https://www.nasa.gov/history/60-years-ago-first-human-entered-space/"
+      }
+    ]
+  },
+  {
+    "id": "apollo-11-1969",
+    "year": 1969,
+    "era": "CE",
+    "exactDate": "1969-07-20",
+    "title": "Первая высадка людей на Луну",
+    "question": "В каком году экипаж «Аполлона-11» впервые высадился на поверхность Луны?",
+    "explanation": "Нил Армстронг и Базз Олдрин работали на поверхности Луны, пока Майкл Коллинз оставался на орбите в командном модуле.",
+    "period": "Космическая эра",
+    "category": "space-technology",
+    "difficulty": "easy",
+    "region": "Луна",
+    "keywords": [
+      "Аполлон-11",
+      "Луна",
+      "Нил Армстронг"
+    ],
+    "sources": [
+      {
+        "title": "Apollo 11 — NASA NSSDCA",
+        "url": "https://nssdc.gsfc.nasa.gov/planetary/lunar/apollo11info.html"
+      }
+    ]
+  },
+  {
+    "id": "hubble-launch-1990",
+    "year": 1990,
+    "era": "CE",
+    "exactDate": "1990-04-24",
+    "title": "Запуск телескопа «Хаббл»",
+    "question": "В каком году космический телескоп «Хаббл» был выведен на орбиту шаттлом Discovery?",
+    "explanation": "«Хаббл» стал первой крупной космической обсерваторией NASA и ESA. Его наблюдения изменили многие области астрономии.",
+    "period": "Космическая эра",
+    "category": "space-technology",
+    "difficulty": "medium",
+    "region": "Орбита Земли",
+    "keywords": [
+      "Хаббл",
+      "Discovery",
+      "телескоп"
+    ],
+    "sources": [
+      {
+        "title": "Hubble History Timeline — NASA",
+        "url": "https://science.nasa.gov/mission/hubble/overview/hubble-timeline/hubble-history-timeline-full-text/"
+      }
+    ]
+  },
+  {
+    "id": "sojourner-1997",
+    "year": 1997,
+    "era": "CE",
+    "exactDate": "1997-07-04",
+    "title": "Марсоход Sojourner на Марсе",
+    "question": "В каком году марсоход Sojourner начал исследовать поверхность Марса в рамках миссии Mars Pathfinder?",
+    "explanation": "Sojourner стал первым успешным марсоходом NASA. Он передавал изображения и данные о породах вокруг посадочного аппарата.",
+    "period": "Космическая эра",
+    "category": "space-technology",
+    "difficulty": "hard",
+    "region": "Марс",
+    "keywords": [
+      "Sojourner",
+      "Mars Pathfinder",
+      "марсоход"
+    ],
+    "sources": [
+      {
+        "title": "July 4, 1997: Sojourner Arrives on the Red Planet — NASA",
+        "url": "https://www.nasa.gov/image-article/july-4-1997-sojourner-arrives-red-planet/"
+      }
+    ]
+  },
+  {
+    "id": "gutenberg-bible-1455",
+    "year": 1455,
+    "era": "CE",
+    "exactDate": null,
+    "title": "Завершение печати Библии Гутенберга",
+    "question": "В каком году, по принятой датировке, была завершена печать Библии Иоганна Гутенберга в Майнце?",
+    "explanation": "Библия считается первой крупной книгой, напечатанной подвижным металлическим шрифтом в Западной Европе. Исследователи указывают, что печать, вероятно, завершилась в конце 1455 года.",
+    "period": "Средние века",
+    "category": "culture-art",
+    "difficulty": "medium",
+    "region": "Майнц",
+    "keywords": [
+      "Гутенберг",
+      "книгопечатание",
+      "Библия"
+    ],
+    "sources": [
+      {
+        "title": "The Gutenberg Bible — Library of Congress",
+        "url": "https://www.loc.gov/exhibits/bibles/the-gutenberg-bible.html"
+      }
+    ]
+  },
+  {
+    "id": "shakespeare-folio-1623",
+    "year": 1623,
+    "era": "CE",
+    "exactDate": null,
+    "title": "Первое фолио Шекспира",
+    "question": "В каком году друзья и коллеги Уильяма Шекспира издали сборник пьес, известный как Первое фолио?",
+    "explanation": "Сборник под названием «Комедии, хроники и трагедии мистера Уильяма Шекспира» сохранил текст многих пьес, которые иначе могли быть утрачены.",
+    "period": "Раннее Новое время",
+    "category": "culture-art",
+    "difficulty": "medium",
+    "region": "Англия",
+    "keywords": [
+      "Шекспир",
+      "театр",
+      "Первое фолио"
+    ],
+    "sources": [
+      {
+        "title": "The Shakespeare First Folio — Folger Shakespeare Library",
+        "url": "https://www.folger.edu/explore/shakespeare-in-print/first-folio/"
+      }
+    ]
+  },
+  {
+    "id": "figaro-premiere-1786",
+    "year": 1786,
+    "era": "CE",
+    "exactDate": "1786-05-01",
+    "title": "Премьера «Свадьбы Фигаро»",
+    "question": "В каком году опера Моцарта «Свадьба Фигаро» впервые прозвучала в венском Бургтеатре?",
+    "explanation": "Опера на либретто Лоренцо да Понте основана на пьесе Бомарше и стала одной из самых известных опер Моцарта.",
+    "period": "Новое время",
+    "category": "culture-art",
+    "difficulty": "hard",
+    "region": "Австрия",
+    "keywords": [
+      "Моцарт",
+      "опера",
+      "Фигаро"
+    ],
+    "sources": [
+      {
+        "title": "The Marriage of Figaro",
+        "url": "https://www.britannica.com/topic/The-Marriage-of-Figaro"
+      }
+    ]
+  },
+  {
+    "id": "beethoven-ninth-1824",
+    "year": 1824,
+    "era": "CE",
+    "exactDate": "1824-05-07",
+    "title": "Премьера Девятой симфонии Бетховена",
+    "question": "В каком году в Вене впервые исполнили Девятую симфонию Людвига ван Бетховена?",
+    "explanation": "Премьера состоялась в венском Kärntnertortheater. В финале симфонии звучит хор на текст «Оды к радости» Фридриха Шиллера.",
+    "period": "Новое время",
+    "category": "culture-art",
+    "difficulty": "medium",
+    "region": "Австрия",
+    "keywords": [
+      "Бетховен",
+      "симфония",
+      "Ода к радости"
+    ],
+    "sources": [
+      {
+        "title": "Ludwig van Beethoven",
+        "url": "https://www.britannica.com/biography/Ludwig-van-Beethoven"
+      }
+    ]
+  },
+  {
+    "id": "impressionist-exhibition-1874",
+    "year": 1874,
+    "era": "CE",
+    "exactDate": null,
+    "title": "Первая выставка импрессионистов",
+    "question": "В каком году группа художников, позднее названных импрессионистами, провела независимую выставку в Париже?",
+    "explanation": "Выставка проходила в мастерской фотографа Надара. Среди участников были Моне, Ренуар, Дега и Моризо.",
+    "period": "Новое время",
+    "category": "culture-art",
+    "difficulty": "hard",
+    "region": "Франция",
+    "keywords": [
+      "импрессионизм",
+      "Моне",
+      "Париж"
+    ],
+    "sources": [
+      {
+        "title": "Impressionism — Musée d'Orsay",
+        "url": "https://www.musee-orsay.fr/en/articles/impressionism-94027"
+      }
+    ]
+  },
+  {
+    "id": "star-wars-premiere-1977",
+    "year": 1977,
+    "era": "CE",
+    "exactDate": "1977-05-25",
+    "title": "Премьера фильма «Звёздные войны»",
+    "question": "В каком году фильм Джорджа Лукаса «Звёздные войны» впервые вышел в кинотеатрах США?",
+    "explanation": "Фильм Джорджа Лукаса вышел в американский прокат и быстро стал культурным феноменом. Его успех изменил подход Голливуда к крупным фантастическим постановкам, спецэффектам, мерчандайзингу и созданию продолжительных киновселенных.",
+    "period": "Новейшая история",
+    "category": "culture-art",
+    "difficulty": "easy",
+    "region": "США",
+    "keywords": [
+      "кино",
+      "Джордж Лукас",
+      "Звёздные войны"
+    ],
+    "sources": [
+      {
+        "title": "Star Wars: A New Hope — Lucasfilm",
+        "url": "https://www.starwars.com/films/star-wars-episode-iv-a-new-hope"
+      }
+    ]
+  },
+  {
+    "id": "german-empire-1871",
+    "year": 1871,
+    "era": "CE",
+    "exactDate": "1871-01-18",
+    "title": "Провозглашение Германской империи",
+    "question": "В каком году Вильгельм I был провозглашён германским императором в Версале?",
+    "explanation": "Провозглашение состоялось после победы Пруссии и её союзников во франко-прусской войне и закрепило объединение Германии.",
+    "period": "Новое время",
+    "category": "states-empires",
+    "difficulty": "medium",
+    "region": "Германия",
+    "keywords": [
+      "Германия",
+      "объединение",
+      "Вильгельм I"
+    ],
+    "sources": [
+      {
+        "title": "German Empire",
+        "url": "https://www.britannica.com/place/German-Empire"
+      }
+    ]
+  },
+  {
+    "id": "turkish-republic-1923",
+    "year": 1923,
+    "era": "CE",
+    "exactDate": "1923-10-29",
+    "title": "Провозглашение Турецкой Республики",
+    "question": "В каком году Великое национальное собрание провозгласило Турецкую Республику?",
+    "explanation": "29 октября республика была провозглашена под руководством Мустафы Кемаля Ататюрка, который стал её первым президентом.",
+    "period": "Новейшая история",
+    "category": "states-empires",
+    "difficulty": "medium",
+    "region": "Турция",
+    "keywords": [
+      "Турция",
+      "Ататюрк",
+      "республика"
+    ],
+    "sources": [
+      {
+        "title": "Republic of Turkey",
+        "url": "https://www.britannica.com/place/Turkey/History"
+      }
+    ]
+  },
+  {
+    "id": "india-republic-1950",
+    "year": 1950,
+    "era": "CE",
+    "exactDate": "1950-01-26",
+    "title": "Индия становится республикой",
+    "question": "В каком году Конституция Индии вступила в силу, превратив страну в республику?",
+    "explanation": "Вступила в силу Конституция Индии, принятая Учредительным собранием, и страна стала суверенной демократической республикой. Этот день отмечается как День Республики; независимость от Великобритании Индия получила ранее, в 1947 году.",
+    "period": "Новейшая история",
+    "category": "states-empires",
+    "difficulty": "medium",
+    "region": "Индия",
+    "keywords": [
+      "Индия",
+      "конституция",
+      "республика"
+    ],
+    "sources": [
+      {
+        "title": "Constitution of India — India.gov.in",
+        "url": "https://knowindia.india.gov.in/profile/the-constitution-of-india.php"
+      }
+    ]
+  },
+  {
+    "id": "maastricht-treaty-1992",
+    "year": 1992,
+    "era": "CE",
+    "exactDate": "1992-02-07",
+    "title": "Подписание Маастрихтского договора",
+    "question": "В каком году представители государств Европейских сообществ подписали Маастрихтский договор?",
+    "explanation": "Договор был подписан в феврале 1992 года и вступил в силу в 1993 году. Он официально учредил Европейский союз.",
+    "period": "Новейшая история",
+    "category": "states-empires",
+    "difficulty": "hard",
+    "region": "Европа",
+    "keywords": [
+      "Маастрихт",
+      "Европейский союз",
+      "договор"
+    ],
+    "sources": [
+      {
+        "title": "The Maastricht Treaty — European Union",
+        "url": "https://european-union.europa.eu/principles-countries-history/history-eu/1990-99_en"
+      }
+    ]
+  },
+  {
+    "id": "titanic-1912",
+    "year": 1912,
+    "era": "CE",
+    "exactDate": "1912-04-15",
+    "title": "Гибель «Титаника»",
+    "question": "В каком году океанский лайнер «Титаник» затонул после столкновения с айсбергом в Северной Атлантике?",
+    "explanation": "Пассажирский лайнер столкнулся с айсбергом во время первого рейса через Атлантику и затонул в Северной Атлантике. Погибло более 1 500 человек. Катастрофа привела к пересмотру международных правил безопасности и спасательных средств на море.",
+    "period": "Новейшая история",
+    "category": "recent-history",
+    "difficulty": "easy",
+    "region": "Северная Атлантика",
+    "keywords": [
+      "Титаник",
+      "кораблекрушение",
+      "Атлантика"
+    ],
+    "sources": [
+      {
+        "title": "Titanic — Encyclopaedia Britannica",
+        "url": "https://www.britannica.com/topic/Titanic"
+      }
+    ]
+  },
+  {
+    "id": "un-charter-1945",
+    "year": 1945,
+    "era": "CE",
+    "exactDate": "1945-06-26",
+    "title": "Подписание Устава ООН",
+    "question": "В каком году представители 50 стран подписали Устав Организации Объединённых Наций в Сан-Франциско?",
+    "explanation": "Представители 50 государств подписали Устав ООН на конференции в Сан-Франциско. Документ определил цели организации, устройство её главных органов и принципы международного сотрудничества; Устав вступил в силу позднее в том же году.",
+    "period": "Послевоенный мир",
+    "category": "recent-history",
+    "difficulty": "easy",
+    "region": "США",
+    "keywords": [
+      "ООН",
+      "Устав",
+      "Сан-Франциско"
+    ],
+    "sources": [
+      {
+        "title": "United Nations Charter",
+        "url": "https://www.un.org/en/about-us/un-charter"
+      }
+    ]
+  },
+  {
+    "id": "udhr-1948",
+    "year": 1948,
+    "era": "CE",
+    "exactDate": "1948-12-10",
+    "title": "Всеобщая декларация прав человека",
+    "question": "В каком году Генеральная Ассамблея ООН приняла Всеобщую декларацию прав человека?",
+    "explanation": "Декларация была принята 10 декабря в Париже. Она определила общий стандарт прав и свобод, к которому должны стремиться все народы.",
+    "period": "Послевоенный мир",
+    "category": "recent-history",
+    "difficulty": "medium",
+    "region": "Международный",
+    "keywords": [
+      "ООН",
+      "права человека",
+      "декларация"
+    ],
+    "sources": [
+      {
+        "title": "Universal Declaration of Human Rights — United Nations",
+        "url": "https://www.un.org/en/about-us/universal-declaration-of-human-rights"
+      }
+    ]
+  },
+  {
+    "id": "berlin-wall-1989",
+    "year": 1989,
+    "era": "CE",
+    "exactDate": "1989-11-09",
+    "title": "Падение Берлинской стены",
+    "question": "В каком году власти ГДР объявили о свободном пересечении границы, после чего Берлинская стена перестала разделять город?",
+    "explanation": "После объявления об изменении правил переходы открылись. Жители Берлина собрались у пограничных пунктов, а затем начали разбирать стену.",
+    "period": "Новейшая история",
+    "category": "recent-history",
+    "difficulty": "easy",
+    "region": "Германия",
+    "keywords": [
+      "Берлинская стена",
+      "ГДР",
+      "объединение Германии"
+    ],
+    "sources": [
+      {
+        "title": "The Fall of the Berlin Wall — Encyclopaedia Britannica",
+        "url": "https://www.britannica.com/event/fall-of-the-Berlin-Wall"
+      }
+    ]
+  },
+  {
+    "id": "soviet-dissolution-1991",
+    "year": 1991,
+    "era": "CE",
+    "exactDate": "1991-12-26",
+    "title": "Распад Советского Союза",
+    "question": "В каком году Совет Республик Верховного Совета СССР принял декларацию о прекращении существования Советского Союза?",
+    "explanation": "Декларация от 26 декабря последовала за соглашениями о создании Содружества Независимых Государств и отставкой Михаила Горбачёва.",
+    "period": "Новейшая история",
+    "category": "recent-history",
+    "difficulty": "medium",
+    "region": "Евразия",
+    "keywords": [
+      "СССР",
+      "распад",
+      "1991"
+    ],
+    "sources": [
+      {
+        "title": "Dissolution of the Soviet Union",
+        "url": "https://www.britannica.com/event/the-collapse-of-the-Soviet-Union"
+      }
+    ]
+  },
+  {
+    "id": "modern-olympics-1896",
+    "year": 1896,
+    "era": "CE",
+    "exactDate": "1896-04-06",
+    "title": "Первые современные Олимпийские игры",
+    "question": "В каком году в Афинах прошли первые современные Олимпийские игры?",
+    "explanation": "Игры проходили с 6 по 15 апреля. В них участвовали 241 спортсмен из 14 национальных олимпийских комитетов.",
+    "period": "Новейшая история",
+    "category": "sport",
+    "difficulty": "easy",
+    "region": "Греция",
+    "keywords": [
+      "Афины",
+      "Олимпийские игры",
+      "Пьер де Кубертен"
+    ],
+    "sources": [
+      {
+        "title": "The Olympic Movement — Olympic Studies Centre",
+        "url": "https://library.olympics.com/digitalCollection/DigitalCollectionAttachmentDownloadHandler.ashx?documentId=3703315&parentDocumentId=172552&skipCopyright=true&skipWatermark=true"
+      }
+    ]
+  },
+  {
+    "id": "winter-olympics-1924",
+    "year": 1924,
+    "era": "CE",
+    "exactDate": "1924-01-25",
+    "title": "Первые зимние Олимпийские игры",
+    "question": "В каком году в Шамони прошла Неделя зимних видов спорта, позднее признанная первыми зимними Олимпийскими играми?",
+    "explanation": "Соревнования проходили во французском Шамони с 25 января по 5 февраля. Впоследствии МОК признал их первыми зимними Олимпийскими играми.",
+    "period": "Новейшая история",
+    "category": "sport",
+    "difficulty": "medium",
+    "region": "Франция",
+    "keywords": [
+      "Шамони",
+      "зимние Олимпийские игры",
+      "МОК"
+    ],
+    "sources": [
+      {
+        "title": "Chamonix 1924 — Olympic Studies Centre",
+        "url": "https://library.olympics.com/Default/basicfilesdownload.ashx?itemId=1002"
+      }
+    ]
+  },
+  {
+    "id": "first-fifa-world-cup-1930",
+    "year": 1930,
+    "era": "CE",
+    "exactDate": "1930-07-13",
+    "title": "Первый чемпионат мира по футболу",
+    "question": "В каком году в Уругвае состоялся первый чемпионат мира по футболу FIFA?",
+    "explanation": "Первый чемпионат мира FIFA прошёл в Уругвае, который отмечал столетие первой конституции. В турнире участвовали 13 сборных; хозяева победили Аргентину со счётом 4:2 в финале в Монтевидео и стали первыми чемпионами мира.",
+    "period": "Новейшая история",
+    "category": "sport",
+    "difficulty": "easy",
+    "region": "Уругвай",
+    "keywords": [
+      "FIFA",
+      "футбол",
+      "Уругвай"
+    ],
+    "sources": [
+      {
+        "title": "1930 FIFA World Cup — FIFA",
+        "url": "https://www.fifa.com/tournaments/mens/worldcup/1930uruguay"
+      }
+    ]
+  },
+  {
+    "id": "jesse-owens-1936",
+    "year": 1936,
+    "era": "CE",
+    "exactDate": null,
+    "title": "Победы Джесси Оуэнса в Берлине",
+    "question": "В каком году Джесси Оуэнс завоевал четыре золотые медали на летних Олимпийских играх в Берлине?",
+    "explanation": "На Олимпийских играх в Берлине американский легкоатлет Джесси Оуэнс выиграл золото в беге на 100 и 200 метров, прыжке в длину и эстафете 4 × 100 метров. Его достижения стали одним из самых известных эпизодов Олимпиады.",
+    "period": "Новейшая история",
+    "category": "sport",
+    "difficulty": "medium",
+    "region": "Германия",
+    "keywords": [
+      "Джесси Оуэнс",
+      "Берлин",
+      "Олимпиада"
+    ],
+    "sources": [
+      {
+        "title": "Jesse Owens — Olympics.com",
+        "url": "https://olympics.com/en/athletes/jesse-owens"
+      }
+    ]
+  }
+]

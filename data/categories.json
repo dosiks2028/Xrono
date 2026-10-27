@@ -1,0 +1,13 @@
+[
+  {"id":"ancient-world","name":"Древний мир","description":"Цивилизации, правители и идеи, с которых начиналась история.","icon":"◉","sortOrder":1},
+  {"id":"middle-ages","name":"Средневековье","description":"Королевства, города и поворотные события средних веков.","icon":"⌘","sortOrder":2},
+  {"id":"exploration","name":"Великие географические открытия","description":"Морские экспедиции и встречи миров.","icon":"⌖","sortOrder":3},
+  {"id":"central-asia","name":"Казахстан и Центральная Азия","description":"История степей, городов и государств Центральной Азии.","icon":"✳","sortOrder":4},
+  {"id":"wars-revolutions","name":"Войны и революции","description":"События, изменившие границы и общественный порядок.","icon":"⚑","sortOrder":5},
+  {"id":"science-inventions","name":"Наука и изобретения","description":"Открытия и идеи, изменившие представление о мире.","icon":"⌬","sortOrder":6},
+  {"id":"space-technology","name":"Космос и технологии","description":"Первые шаги человечества за пределы Земли.","icon":"✦","sortOrder":7},
+  {"id":"culture-art","name":"Культура и искусство","description":"Книги, музыка и произведения, ставшие частью общего наследия.","icon":"◇","sortOrder":8},
+  {"id":"states-empires","name":"История государств и империй","description":"Рождение и преобразование политических союзов.","icon":"▤","sortOrder":9},
+  {"id":"recent-history","name":"Новейшая история","description":"Мир XX и XXI веков и решения, которые определили настоящее.","icon":"◷","sortOrder":10},
+  {"id":"sport","name":"Спорт","description":"Рекорды, турниры и моменты на мировой арене.","icon":"↗","sortOrder":11}
+]

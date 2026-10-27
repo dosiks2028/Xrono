@@ -1,0 +1,14 @@
+{
+  "name": "hrono-history-wordle",
+  "version": "1.0.0",
+  "private": true,
+  "description": "ХРОНО — историческая игра в четыре цифры",
+  "type": "module",
+  "scripts": {
+    "start": "node server.mjs",
+    "dev": "node --watch server.mjs",
+    "test": "node --test",
+    "check": "node --check server.mjs && node --check public/app.js"
+  },
+  "engines": { "node": ">=22.5" }
+}
